@@ -1,0 +1,14 @@
+## v1.1.0 Changelog
+
+### New Additions:
+- **Added FTP Functionality:** Easily transfer processed files from your PC to your PS3.
+- **Optional Original File Copy:** You can choose to copy existing files from your PS3 before transferring new ones.
+- **Added PS1/PS2 Classics Placeholder Options:** Preview and process Disc/Cover images with PS1/PS2 classics placeholders applied.
+
+### Bug Fixes:
+- **Fixed Bug:** Addressed an issue where the `youtube_audio.wav` file wasn't being deleted during audio processing.
+- **Fixed Traceback Error:** Resolved a traceback error that occurred when loading logo and background images.
+
+### Quality of Life Improvements:
+- **Modified Pre-loaded Logo Image:** Modified the pre-loaded logo image to better reflect the actual placement.
+- **Enhanced Shell Messages:** Added more informative messages in the shell for improved clarity during script execution.
