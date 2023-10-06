@@ -1,4 +1,4 @@
-# art2xmb - PS3 XMB Image and Audio Converter
+# art2xmb - PS3 XMB Image and Audio Converter + Instant FTP transfer
 
 art2xmb is a powerful Python GUI tool designed to streamline the creation of custom game art files for the PlayStation 3's XMB. With art2xmb, users can choose their preferred game art images, input a YouTube link, and seamlessly convert them into PS3-compatible files. These processed files can be instantly transferred to the appropriate folder on your PS3, all within the intuitive art2xmb interface.
 
